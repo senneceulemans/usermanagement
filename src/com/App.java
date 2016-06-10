@@ -3,7 +3,6 @@ package com;
 import java.awt.FlowLayout;
 import javax.swing.JFrame;
 
-import com.util.DatabaseUtil;
 import com.view.UserUI;
 
 public class App {
