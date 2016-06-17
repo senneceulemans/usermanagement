@@ -7,8 +7,7 @@ import com.view.UserUI;
 
 public class App {
 
-    public static void main(String[] args) {
-    	  	
+    public static void main(String[] args) {    	  	
     	JFrame f=new JFrame();
     	f.setTitle("User Management");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
