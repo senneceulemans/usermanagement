@@ -1,3 +1,9 @@
+//1. Create schema usersdb
+
+CREATE SCHAME usersdb;
+
+//2. Create table users
+
 use usersdb;
 
 CREATE TABLE `users` (

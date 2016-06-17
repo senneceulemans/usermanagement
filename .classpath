@@ -11,7 +11,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/jars/miglayout-4.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -23,6 +22,7 @@
 	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/db/lib/derbyoptionaltools.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/db/lib/derbyrun.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_91/db/lib/derbytools.jar"/>
-	<classpathentry kind="lib" path="C:/jars/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/Other/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
